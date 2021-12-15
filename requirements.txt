@@ -2,3 +2,4 @@ django
 djangorestframework
 waitress
 whitenoise
+requests
