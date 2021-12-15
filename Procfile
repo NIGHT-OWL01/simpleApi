@@ -1,1 +1,1 @@
-web:waitress-serve --port=8100 crud.wsgi:application
+web: waitress-serve --port=$PORT crud.wsgi:application
